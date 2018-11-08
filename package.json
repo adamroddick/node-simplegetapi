@@ -1,0 +1,24 @@
+{
+  "name": "simplegetapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamroddick/node-simplegetapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamroddick/node-simplegetapi/issues"
+  },
+  "homepage": "https://github.com/adamroddick/node-simplegetapi#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "4.16.4",
+    "path": "0.12.7"
+  }
+}
